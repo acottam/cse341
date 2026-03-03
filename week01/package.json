@@ -1,0 +1,16 @@
+{
+  "name": "week01-backend",
+  "version": "1.0.0",
+  "description": "Backend server for CSE341 Week 01",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "mongodb": "^7.1.0"
+  }
+}
